@@ -1,0 +1,23 @@
+{
+  "updated": "2026-10-15",
+  "bugs": [
+    {
+      "id": "MC-312645",
+      "title": "Dispensers equipping chests on donkeys, mules or llamas don't play the equip sound",
+      "category": "sound",
+      "affected": ["26.2"],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": ["all"]
+    },
+    {
+      "id": "MC-312644",
+      "title": "Dispensers filling glass bottles don't play the filling sound",
+      "category": "sound",
+      "affected": ["26.2"],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": ["all"]
+    }
+  ]
+}
