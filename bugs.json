@@ -5,19 +5,49 @@
       "id": "MC-312645",
       "title": "Dispensers equipping chests on Donkeys, mules or llamas don't play the equip sound",
       "category": "sound",
-      "affected": ["26.2"],
+      "affected": [
+        "26.2"
+      ],
       "fixedIn": null,
       "workaround": null,
-      "loaders": ["all"]
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": null,
+      "created": "2026-09-01",
+      "updated": "2026-10-10",
+      "priority": "Low",
+      "votes": 12,
+      "comments": 3,
+      "duplicates": 1,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312645"
+      }
     },
     {
       "id": "MC-312644",
       "title": "Dispensers filling glass bottles don't play the filling sound",
       "category": "sound",
-      "affected": ["26.2"],
-      "fixedIn": null,
-      "workaround": null,
-      "loaders": ["all"]
+      "affected": [
+        "26.2"
+      ],
+      "fixedIn": "26.3",
+      "workaround": "Pick the bottle up manually",
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Community Consensus",
+      "resolution": "Fixed",
+      "created": "2026-08-20",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 8,
+      "comments": 5,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312644"
+      }
     }
   ]
 }
