@@ -48,6 +48,7201 @@
       "links": {
         "Mojira report": "https://report.bugs.mojang.com/browse/MC-312644"
       }
+    },
+    {
+      "id": "MC-312664",
+      "title": "\"/data modify ... merge compute\" always causes an error",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312664"
+      }
+    },
+    {
+      "id": "MC-312663",
+      "title": "Amethyst Geodes generate much more rarely in ice caves compared to other biomes",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312663"
+      }
+    },
+    {
+      "id": "MC-312662",
+      "title": "If the fragmentation of brittle ice is 3 and a creature walks over it,the adjacent piece destroyed",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312662"
+      }
+    },
+    {
+      "id": "MC-312661",
+      "title": "Applying effects using commands always prompts \"seconds\", even when the time is based on ticks.",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312661"
+      }
+    },
+    {
+      "id": "MC-312660",
+      "title": "Withers and ender dragons are affected by instant splash potions",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312660"
+      }
+    },
+    {
+      "id": "MC-312659",
+      "title": "/tag list always returns \"no tags on the 0 entities\" when no tags are present on multiple entities",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312659"
+      }
+    },
+    {
+      "id": "MC-312658",
+      "title": "Tuff blobs y0-3 not placing deepslate ore after 26.2",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312658"
+      }
+    },
+    {
+      "id": "MC-312657",
+      "title": "When an immovable block is broken in front of a piston that is powered on, the animation is skipped",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312657"
+      }
+    },
+    {
+      "id": "MC-312656",
+      "title": "The sounds of sulfur cubes and small sulfur cubes landing have no closed captions",
+      "category": "accessibility",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312656"
+      }
+    },
+    {
+      "id": "MC-312655",
+      "title": "Baby chickens don\u2019t produce footstep sounds or closed captions",
+      "category": "accessibility",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312655"
+      }
+    },
+    {
+      "id": "MC-312654",
+      "title": "Dispensers consume the durability of flint and steel and play their clicking sound despite there being nothing to ignite",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Community Consensus",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312654"
+      }
+    },
+    {
+      "id": "MC-312653",
+      "title": "The `below_name` score is displayed above entities whose name tag is hidden",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312653"
+      }
+    },
+    {
+      "id": "MC-312652",
+      "title": "Flint and steel and fire charges don't make a sound when igniting sulfur cubes holding TNT",
+      "category": "sound",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312652"
+      }
+    },
+    {
+      "id": "MC-312651",
+      "title": "The bottom face of a jukebox uses its new texture when the \"Programmer Art\" resource pack is enabled",
+      "category": "textures and models",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312651"
+      }
+    },
+    {
+      "id": "MC-312650",
+      "title": "Golden dandelions don't use the `strict_cutout` mipmap strategy, unlike dandelions",
+      "category": "rendering",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312650"
+      }
+    },
+    {
+      "id": "MC-312649",
+      "title": "Ice crystals don't use the `strict_cutout` mipmap strategy, unlike amethyst clusters",
+      "category": "rendering",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312649"
+      }
+    },
+    {
+      "id": "MC-312648",
+      "title": "Crouch bug in Minecraft 26.3",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312648"
+      }
+    },
+    {
+      "id": "MC-312647",
+      "title": "Unable to invert item predicates inside Slot Source",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312647"
+      }
+    },
+    {
+      "id": "MC-312646",
+      "title": "The copper chest is called \"Chest\" in its interface",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312646"
+      }
+    },
+    {
+      "id": "MC-312643",
+      "title": "The \"Done\" button in the sign editing screen is narrower than it was in prior versions",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312643"
+      }
+    },
+    {
+      "id": "MC-312642",
+      "title": "Pointed dripstone below flowing lava drips water instead of lava",
+      "category": "block states",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312642"
+      }
+    },
+    {
+      "id": "MC-312641",
+      "title": "Any mouse button can be used to open links on the death screen",
+      "category": "input",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312641"
+      }
+    },
+    {
+      "id": "MC-312640",
+      "title": "Any mouse button can be used to select entries in the statistics menu",
+      "category": "input",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312640"
+      }
+    },
+    {
+      "id": "MC-312639",
+      "title": "Opening a screen while in a world automatically focuses a button if the tab or arrow keys was used previously",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312639"
+      }
+    },
+    {
+      "id": "MC-312638",
+      "title": "Music discs ejected from jukeboxes with chests above them spawn inside the chests",
+      "category": "collision",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312638"
+      }
+    },
+    {
+      "id": "MC-312637",
+      "title": "Sculk sensors aren't activated upon ice melting in the Nether",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312637"
+      }
+    },
+    {
+      "id": "MC-312636",
+      "title": "Players are not dismounted when riding camel husks underwater",
+      "category": "mob behaviour",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312636"
+      }
+    },
+    {
+      "id": "MC-312635",
+      "title": "Happy ghasts don\u2019t avoid soul fire, unlike regular fire",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312635"
+      }
+    },
+    {
+      "id": "MC-312634",
+      "title": "Tamed entities can teleport outside the world border when following their owner",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312634"
+      }
+    },
+    {
+      "id": "MC-312633",
+      "title": "The spectator mode hotbar opens after switching to spectator mode if the middle mouse button was clicked while using an item",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Won't Fix",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312633"
+      }
+    },
+    {
+      "id": "MC-312632",
+      "title": "Icicles and sulfur spikes are not part of the `#dangerous_for_teleportation` block tag, unlike pointed dripstone",
+      "category": "block states",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312632"
+      }
+    },
+    {
+      "id": "MC-312631",
+      "title": "Ice caves are not part of the `#stronghold_biased_to` biome tag",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312631"
+      }
+    },
+    {
+      "id": "MC-312630",
+      "title": "Ruined portals don't generate in ice caves",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312630"
+      }
+    },
+    {
+      "id": "MC-312629",
+      "title": "Ice caves generate gravel, diorite, and andesite blobs twice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312629"
+      }
+    },
+    {
+      "id": "MC-312628",
+      "title": "Can't take items out of bundles in saved hotbars",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312628"
+      }
+    },
+    {
+      "id": "MC-312627",
+      "title": "Water sources adjacent to blue ice convert into brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312627"
+      }
+    },
+    {
+      "id": "MC-312626",
+      "title": "Sneaking does not prevent brittle ice from cracking",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312626"
+      }
+    },
+    {
+      "id": "MC-312625",
+      "title": "Iron golems summoned by villagers can spawn on brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312625"
+      }
+    },
+    {
+      "id": "MC-312624",
+      "title": "Lily pads cannot be placed on brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312624"
+      }
+    },
+    {
+      "id": "MC-312623",
+      "title": "OpenGL fails with EGL_BAD_DISPLAY on NVIDIA Linux",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312623"
+      }
+    },
+    {
+      "id": "MC-312622",
+      "title": "Attacking hitbox through wall with an axe disables held shield",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312622"
+      }
+    },
+    {
+      "id": "MC-312621",
+      "title": "Zombies, husks, drowned, strays, and frostbites are now affected by Poison and Regeneration",
+      "category": "mob behaviour",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312621"
+      }
+    },
+    {
+      "id": "MC-312620",
+      "title": "Netherite spear charge deals 7 damage instead of expected 8",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312620"
+      }
+    },
+    {
+      "id": "MC-312619",
+      "title": "Armadillo hides while player sitting on cushion",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312619"
+      }
+    },
+    {
+      "id": "MC-312618",
+      "title": "Polar bears have lower water drag on knockback, so they go farther than other mobs",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312618"
+      }
+    },
+    {
+      "id": "MC-312617",
+      "title": "Broken sculk shrieker texture",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312617"
+      }
+    },
+    {
+      "id": "MC-312616",
+      "title": "Cushions eventually break while inside brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312616"
+      }
+    },
+    {
+      "id": "MC-312615",
+      "title": "Snow Layers can be placed and naturally form on Brittle Ice but not regular Ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312615"
+      }
+    },
+    {
+      "id": "MC-312614",
+      "title": "Zombie villager texture missing",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312614"
+      }
+    },
+    {
+      "id": "MC-312613",
+      "title": "Jukeboxes don't pull discs from single chests that are created by breaking a double chest",
+      "category": "block states",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312613"
+      }
+    },
+    {
+      "id": "MC-312612",
+      "title": "Jukeboxes can pull from double chests if a single chest was turned into a double chest after being placed",
+      "category": "block states",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312612"
+      }
+    },
+    {
+      "id": "MC-312611",
+      "title": "Jukeboxes with chests above them eject their contained music discs into the world when right-clicking them",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312611"
+      }
+    },
+    {
+      "id": "MC-312610",
+      "title": "Shulkers do not crack brittle ice when standing on it",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312610"
+      }
+    },
+    {
+      "id": "MC-312609",
+      "title": "Boats do not crack brittle ice when standing on it",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312609"
+      }
+    },
+    {
+      "id": "MC-312608",
+      "title": "Placing a chest on top of a jukebox currently playing a disc causes the \"Playing Next\" tooltip not to show",
+      "category": "ui",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312608"
+      }
+    },
+    {
+      "id": "MC-312607",
+      "title": "Placing a chest on top of a jukebox that has already completed playing its current disc causes it to never switch",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312607"
+      }
+    },
+    {
+      "id": "MC-312606",
+      "title": "Sculk sensors are activated upon jukeboxes automatically switching discs in playlists",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312606"
+      }
+    },
+    {
+      "id": "MC-312605",
+      "title": "Dropped items can't crack brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312605"
+      }
+    },
+    {
+      "id": "MC-312604",
+      "title": "Sign editing not using custom texture pack background",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Cannot Reproduce",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312604"
+      }
+    },
+    {
+      "id": "MC-312603",
+      "title": "Armor stands crack brittle ice when standing on it",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312603"
+      }
+    },
+    {
+      "id": "MC-312602",
+      "title": "The 'attached' states of icicles do not melt even in sufficient light",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312602"
+      }
+    },
+    {
+      "id": "MC-312601",
+      "title": "icicles do not fall under a lava or light source",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312601"
+      }
+    },
+    {
+      "id": "MC-312600",
+      "title": "Note blocks do not have an updated texture unlike the Jukebox",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312600"
+      }
+    },
+    {
+      "id": "MC-312599",
+      "title": "Mobs cannot be immune to freezing and infested at the same time",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312599"
+      }
+    },
+    {
+      "id": "MC-312598",
+      "title": "You can create a black/untextured shield using only commands",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312598"
+      }
+    },
+    {
+      "id": "MC-312597",
+      "title": "Rails and corals on honey blocks break when moved by a piston",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 3,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312597"
+      }
+    },
+    {
+      "id": "MC-312596",
+      "title": "You can give yourself a missing texture banner with commands with no resource packs",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312596"
+      }
+    },
+    {
+      "id": "MC-312595",
+      "title": "Ice Crystal on Top of Andesite",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312595"
+      }
+    },
+    {
+      "id": "MC-312594",
+      "title": "Icicles can generate attached to blocks other than packed ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312594"
+      }
+    },
+    {
+      "id": "MC-312593",
+      "title": "UI Offset Bug",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312593"
+      }
+    },
+    {
+      "id": "MC-312592",
+      "title": "ore_gravel is placed in a different location than in 26.4-snap-3 breaking feature order cycles",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312592"
+      }
+    },
+    {
+      "id": "MC-312591",
+      "title": "Players who aren\u2019t friends are narrated as friends when hovering over them in the other players menu",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312591"
+      }
+    },
+    {
+      "id": "MC-312590",
+      "title": "Symbolic links in resource packs don't appear to work anymore",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312590"
+      }
+    },
+    {
+      "id": "MC-312589",
+      "title": "Frostbites, zombie villagers and zombified piglins have the `FrostbiteConversionTime` tag",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312589"
+      }
+    },
+    {
+      "id": "MC-312588",
+      "title": "All ice-related blocks other than \u2018Ice\u2019, \u2018icecle\u2019 and \u2018Ice Crystal\u2019 have no sound.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312588"
+      }
+    },
+    {
+      "id": "MC-312587",
+      "title": "The game crashes when trying to render the hidden tooltips of music discs in jukebox playlists",
+      "category": "crash",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Very Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312587"
+      }
+    },
+    {
+      "id": "MC-312586",
+      "title": "Tabs in the friends and other players menus don\u2019t render with a white outline when open and selected",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312586"
+      }
+    },
+    {
+      "id": "MC-312585",
+      "title": "Closed captions for armadillos peeking and starting to unroll are identical but are shown separately",
+      "category": "accessibility",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312585"
+      }
+    },
+    {
+      "id": "MC-312584",
+      "title": "The chat messages report button claims chat is disabled or blocked when reporting friends from the title screen",
+      "category": "ui",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312584"
+      }
+    },
+    {
+      "id": "MC-312583",
+      "title": "Breaking Brittle Ice with Silk Touch reset the crack state",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312583"
+      }
+    },
+    {
+      "id": "MC-312582",
+      "title": "The count of the \u201cAll\u201d tab in the other players menu excludes players that are offline",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312582"
+      }
+    },
+    {
+      "id": "MC-312581",
+      "title": "Inconsistency with mob conversion when interacting with powder snow",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312581"
+      }
+    },
+    {
+      "id": "MC-312580",
+      "title": "Blue ice can naturally generate next to water without it forming brittle ice",
+      "category": "world generation",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312580"
+      }
+    },
+    {
+      "id": "MC-312579",
+      "title": "The game crashes when opening the inventory while a `below_name` scoreboard objective is active",
+      "category": "rendering",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Very Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312579"
+      }
+    },
+    {
+      "id": "MC-312578",
+      "title": "Native Wayland client is blurry on KWin with fractional scaling (1.5x) since SDL3 migration",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312578"
+      }
+    },
+    {
+      "id": "MC-312577",
+      "title": "Large entities break only one piece of brittle ice at a time",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312577"
+      }
+    },
+    {
+      "id": "MC-312576",
+      "title": "Brittle ice can be cracked and destroyed by players inside spawn protection",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312576"
+      }
+    },
+    {
+      "id": "MC-312575",
+      "title": "If a player in Creative mode throws a snowball at a boat, cushion, or minecart, it will break.",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312575"
+      }
+    },
+    {
+      "id": "MC-312574",
+      "title": "Entities can crack and destroy brittle ice when the `mob_griefing` game rule is set to false",
+      "category": "mob behaviour",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312574"
+      }
+    },
+    {
+      "id": "MC-312573",
+      "title": "Flying mobs can crack and destroy brittle ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312573"
+      }
+    },
+    {
+      "id": "MC-312572",
+      "title": "Brittle ice doesn't melt",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312572"
+      }
+    },
+    {
+      "id": "MC-312571",
+      "title": "Certain data components can no longer not play a sound",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 13,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312571"
+      }
+    },
+    {
+      "id": "MC-312570",
+      "title": "The texture of note blocks does not match the new texture of jukeboxes",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312570"
+      }
+    },
+    {
+      "id": "MC-312569",
+      "title": "Sulfur spikes don't damage when you jump",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312569"
+      }
+    },
+    {
+      "id": "MC-312568",
+      "title": "The sound effects for Packed Ice, Blue Ice, and Brittle Ice have all disappeared.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312568"
+      }
+    },
+    {
+      "id": "MC-312567",
+      "title": "Wandering trader cannot sale bamboo saplings, unlike other saplings can.",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312567"
+      }
+    },
+    {
+      "id": "MC-312566",
+      "title": "Wrong box animation",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312566"
+      }
+    },
+    {
+      "id": "MC-312565",
+      "title": "[Linux/ChromeOS] Camera snaps back while moving mouse in 26.3 (SDL3); 26.1.2 unaffected",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312565"
+      }
+    },
+    {
+      "id": "MC-312564",
+      "title": "When in fullscreen in steamOS game mode, game drops to low framerate.",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312564"
+      }
+    },
+    {
+      "id": "MC-312563",
+      "title": "The icicle in the Creative mode inventory is placed in the wrong spot",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312563"
+      }
+    },
+    {
+      "id": "MC-312562",
+      "title": "Mannequins spawn as pigs when attempting to spawn from world generation using data packs",
+      "category": "data packs",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312562"
+      }
+    },
+    {
+      "id": "MC-312561",
+      "title": "CANCELLAZIONE INVENTARIO QUANDO ENTRO IN UN MONDO MULTIGIOCATORE LOCALE",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312561"
+      }
+    },
+    {
+      "id": "MC-312560",
+      "title": "Baby Rabbits feet are rotated 180 degrees compared to adults",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312560"
+      }
+    },
+    {
+      "id": "MC-312559",
+      "title": "Sprint toggle state is not remembered across game restarts",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312559"
+      }
+    },
+    {
+      "id": "MC-312558",
+      "title": "saddles & name tags are still treasure drops when fishing despite being readily craftable ",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312558"
+      }
+    },
+    {
+      "id": "MC-312557",
+      "title": "The top most portions of icicles are not shaded correctly compared to the packed ice around them",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312557"
+      }
+    },
+    {
+      "id": "MC-312556",
+      "title": "Icicles in dark portions of ice caves are visibly lighter then packed ice and other blocks",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312556"
+      }
+    },
+    {
+      "id": "MC-312555",
+      "title": "Colors Are Desaturated",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312555"
+      }
+    },
+    {
+      "id": "MC-312554",
+      "title": "Water springs that generate in ice caves are not frozen",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312554"
+      }
+    },
+    {
+      "id": "MC-312553",
+      "title": "Icicles can generate above lava sources pre-melted and fallen",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312553"
+      }
+    },
+    {
+      "id": "MC-312552",
+      "title": "The snow inside of ice caves sometimes is able to generate inside of trial chambers",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312552"
+      }
+    },
+    {
+      "id": "MC-312551",
+      "title": "There is misrendering of ice and packed ice together, typically seen in Frozen Oceans icebergs",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312551"
+      }
+    },
+    {
+      "id": "MC-312550",
+      "title": "Frostbite and parched trial spawners do not exist",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-13",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312550"
+      }
+    },
+    {
+      "id": "MC-312549",
+      "title": "Skeletons don't shiver when under the Freezing Effect",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312549"
+      }
+    },
+    {
+      "id": "MC-312548",
+      "title": "Aquifers in ice caves are not frozen",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-13",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312548"
+      }
+    },
+    {
+      "id": "MC-312547",
+      "title": "Ice balls do not knock back mobs as far",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312547"
+      }
+    },
+    {
+      "id": "MC-312546",
+      "title": "The volume of ice balls hitting the ground when thrown by a player is low",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312546"
+      }
+    },
+    {
+      "id": "MC-312545",
+      "title": "The base/top of icicles is lighter than packed ice itself",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312545"
+      }
+    },
+    {
+      "id": "MC-312544",
+      "title": "Ice caves do not generate as often in all cold biomes",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Incomplete",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312544"
+      }
+    },
+    {
+      "id": "MC-312543",
+      "title": "Frostbites slip on all types of ice when walking",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312543"
+      }
+    },
+    {
+      "id": "MC-312542",
+      "title": "Icicles take long to melt and fall under a light or lava source",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312542"
+      }
+    },
+    {
+      "id": "MC-312541",
+      "title": "Strays do not spawn as often in ice caves",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Incomplete",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312541"
+      }
+    },
+    {
+      "id": "MC-312540",
+      "title": "Ice crystals do not break when water or lava flows through them",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312540"
+      }
+    },
+    {
+      "id": "MC-312539",
+      "title": "Frostbites do not spawn on the surface of snowy biomes",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312539"
+      }
+    },
+    {
+      "id": "MC-312538",
+      "title": "There is no sound when placing flowers into a flower pot",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-12",
+      "updated": "2026-10-15",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312538"
+      }
+    },
+    {
+      "id": "MC-312537",
+      "title": "Packed Ice and Blue Ice do not have updated sounds",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312537"
+      }
+    },
+    {
+      "id": "MC-312536",
+      "title": "ConcurrentModificationException in ResolvableProfile",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312536"
+      }
+    },
+    {
+      "id": "MC-312535",
+      "title": "Water never has smooth lightning",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312535"
+      }
+    },
+    {
+      "id": "MC-312534",
+      "title": "The `gui.friends.cancel_request` string is missing the word \"friend\" before the word \"request\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-12",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312534"
+      }
+    },
+    {
+      "id": "MC-312533",
+      "title": "The `gui.abuseReport.draft.restart` string uses the verb \"Start\" instead of \"Create\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-14",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312533"
+      }
+    },
+    {
+      "id": "MC-312532",
+      "title": "Zombie villagers spawn as their plains variant in ice caves instead of the snowy one",
+      "category": "entities",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312532"
+      }
+    },
+    {
+      "id": "MC-312531",
+      "title": "The `gui.abuseReport.discard.draft.overwrite` string uses the words \"report draft\" instead of \"draft report\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-14",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312531"
+      }
+    },
+    {
+      "id": "MC-312530",
+      "title": "The `options.hideMatchedNames.tooltip` string refers to muted players as \"hidden players\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312530"
+      }
+    },
+    {
+      "id": "MC-312529",
+      "title": "The `gui.player_options.unfriend.confirm` string refers to the friends list as \"your Friends\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-14",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312529"
+      }
+    },
+    {
+      "id": "MC-312528",
+      "title": "Cold variants (Stray+Frostbite) biome spawns inconsistent in Java compared to Bedrock",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312528"
+      }
+    },
+    {
+      "id": "MC-312527",
+      "title": "The screen does not display correctly when not maximized in Vulkan.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312527"
+      }
+    },
+    {
+      "id": "MC-312526",
+      "title": "Baby zombies spawn in groups of four",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312526"
+      }
+    },
+    {
+      "id": "MC-312523",
+      "title": "`/compute ... float` clamps out-of-range values instead of reporting an invalid value",
+      "category": "commands",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312523"
+      }
+    },
+    {
+      "id": "MC-312522",
+      "title": "`/compute ... float` with a scale reports exact results as rounded and shows the unscaled value",
+      "category": "commands",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312522"
+      }
+    },
+    {
+      "id": "MC-312521",
+      "title": "The `div` integer provider returns -2147483648 for -2147483648 / -1 instead of an error",
+      "category": "commands",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312521"
+      }
+    },
+    {
+      "id": "MC-312520",
+      "title": "The `mul` integer provider returns a wrong result instead of an error when the product overflows",
+      "category": "commands",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312520"
+      }
+    },
+    {
+      "id": "MC-312519",
+      "title": "Zombies wearing leather armor don't shake while converting into frostbites",
+      "category": "mob behaviour",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312519"
+      }
+    },
+    {
+      "id": "MC-312518",
+      "title": "Ice crystals are not solid, unlike amethyst clusters",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312518"
+      }
+    },
+    {
+      "id": "MC-312517",
+      "title": "Lighting Bug",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-11",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312517"
+      }
+    },
+    {
+      "id": "MC-312516",
+      "title": "Typo in a log message in `Connection`: \"respose\"",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-11",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312516"
+      }
+    },
+    {
+      "id": "MC-312515",
+      "title": "The game experiences severe lag spikes after exploring terrain for a while, since 26.4 snapshot 1",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312515"
+      }
+    },
+    {
+      "id": "MC-312514",
+      "title": "Drowned do not immediately lose aggression when the player switches to Creative or Spectator mode",
+      "category": "mob behaviour",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-13",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312514"
+      }
+    },
+    {
+      "id": "MC-312513",
+      "title": "About charging",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Incomplete",
+      "created": "2026-10-11",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312513"
+      }
+    },
+    {
+      "id": "MC-312512",
+      "title": "Launcher utility subprocesses abort with std::bad_function_call on Linux",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-11",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312512"
+      }
+    },
+    {
+      "id": "MC-312511",
+      "title": "Minecraft GUI renders incorrectly in windowed mode",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-11",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312511"
+      }
+    },
+    {
+      "id": "MC-312509",
+      "title": "Minecraft's display gets corrupted when minimized",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-11",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312509"
+      }
+    },
+    {
+      "id": "MC-312508",
+      "title": "Creative flight: Movement stuck after colliding with lantern while holding W, must re-press W",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312508"
+      }
+    },
+    {
+      "id": "MC-312507",
+      "title": "New wool blocks don't insulate against sculk + cushions",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-11",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312507"
+      }
+    },
+    {
+      "id": "MC-312506",
+      "title": "Full screen with unrecognized pop-up window options",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312506"
+      }
+    },
+    {
+      "id": "MC-312505",
+      "title": "Straw beds breaking after sleep or leaving the bed early doesn't trigger sculk shriekers",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312505"
+      }
+    },
+    {
+      "id": "MC-312504",
+      "title": "Projectiles desync when exiting simulation distance",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-11",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312504"
+      }
+    },
+    {
+      "id": "MC-312503",
+      "title": "invulnerable entities cannot be hit by spears in creative mode",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-10",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312503"
+      }
+    },
+    {
+      "id": "MC-312502",
+      "title": "Bottle positions in brewing stand GUI do not match block model",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312502"
+      }
+    },
+    {
+      "id": "MC-312501",
+      "title": "The `multiplayer.other_players.not_available` string is missing a verb and is improperly capitalized",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-14",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312501"
+      }
+    },
+    {
+      "id": "MC-312500",
+      "title": "Minecraft no longer recognises presses of some media keys at all",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312500"
+      }
+    },
+    {
+      "id": "MC-312499",
+      "title": "The `options.sharePresence.none` string uses the word \"Hidden\" instead of \"None\", unlike similar strings",
+      "category": "text",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312499"
+      }
+    },
+    {
+      "id": "MC-312498",
+      "title": "shade_direction_override values \"north\"/\"south\" and \"east\"/\"west\" duplicate each other",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312498"
+      }
+    },
+    {
+      "id": "MC-312497",
+      "title": "Template models for icicles are not prefixed with `template_`",
+      "category": "resource packs",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-10",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312497"
+      }
+    },
+    {
+      "id": "MC-312496",
+      "title": "Icicle models use the deprecated `shade` field",
+      "category": "resource packs",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-10",
+      "updated": "2026-10-15",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312496"
+      }
+    },
+    {
+      "id": "MC-312495",
+      "title": "Player fall distance is off by one",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-11",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312495"
+      }
+    },
+    {
+      "id": "MC-312494",
+      "title": "45-degree-rotated elements can have radically different shadings in the same block model",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312494"
+      }
+    },
+    {
+      "id": "MC-312493",
+      "title": "The narrator says \"button\" after the player's name when the player options button is selected, unlike similar buttons",
+      "category": "accessibility",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-13",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312493"
+      }
+    },
+    {
+      "id": "MC-312492",
+      "title": "The Ice Cave biome cannot generate mineshafts.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312492"
+      }
+    },
+    {
+      "id": "MC-312491",
+      "title": "Parrots don't imitate frostbites",
+      "category": "mob behaviour",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312491"
+      }
+    },
+    {
+      "id": "MC-312490",
+      "title": "The \"A Furious Cocktail\" advancement doesn't require the freezing effect",
+      "category": "advancements",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312490"
+      }
+    },
+    {
+      "id": "MC-312489",
+      "title": "The \"How Did We Get Here?\" advancement doesn't require the freezing effect",
+      "category": "advancements",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312489"
+      }
+    },
+    {
+      "id": "MC-312488",
+      "title": "\u5728\u6e38\u620f\u5185\u4f7f\u7528F3+F4\u5207\u6362\u6e38\u620f\u6a21\u5f0f\u540e\uff0c\u4e16\u754c\u9009\u9879\u4e2d\u7684\u4e2a\u4eba\u6e38\u620f\u6a21\u5f0f\u5e76\u6ca1\u6709\u53d8\u66f4",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312488"
+      }
+    },
+    {
+      "id": "MC-312486",
+      "title": "Add Server screen saves invalid addresses like \".\" without validation",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312486"
+      }
+    },
+    {
+      "id": "MC-312485",
+      "title": "Sulfur cubes equipped with blocks with curse of binding are able to have those blocks removed",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312485"
+      }
+    },
+    {
+      "id": "MC-312484",
+      "title": "Targeted block/entity depends on eye height rather than camera position",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Won't Fix",
+      "created": "2026-10-10",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312484"
+      }
+    },
+    {
+      "id": "MC-312483",
+      "title": "Ice caves can generate on the surface",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-10",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312483"
+      }
+    },
+    {
+      "id": "MC-312482",
+      "title": "Jukebox Music Overlaps and Continues Playing After the Jukebox Is Broken",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312482"
+      }
+    },
+    {
+      "id": "MC-312481",
+      "title": "Chest can be equipped on baby donkeys and mules that are made tame with commands",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312481"
+      }
+    },
+    {
+      "id": "MC-312480",
+      "title": "Sonido romper bloques",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-09",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312480"
+      }
+    },
+    {
+      "id": "MC-312479",
+      "title": "Only some mob sounds have age-dependent captions",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312479"
+      }
+    },
+    {
+      "id": "MC-312478",
+      "title": "I have issues when resizing windows that doesn't crash the game this time!",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312478"
+      }
+    },
+    {
+      "id": "MC-312477",
+      "title": "Copper golems can get stuck on cocoa beans when pathfinding",
+      "category": "mob behaviour",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312477"
+      }
+    },
+    {
+      "id": "MC-312476",
+      "title": "The background does not get dim when the Friends list is opened",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312476"
+      }
+    },
+    {
+      "id": "MC-312475",
+      "title": "Programmer Art brewing stand model is partially corrupted/misconfigured",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312475"
+      }
+    },
+    {
+      "id": "MC-312474",
+      "title": "Sugar cane can be placed in water",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312474"
+      }
+    },
+    {
+      "id": "MC-312473",
+      "title": "Rain underground",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Awaiting Response",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312473"
+      }
+    },
+    {
+      "id": "MC-312472",
+      "title": "Villagers Holding Shearable Items Can Be Sheared",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312472"
+      }
+    },
+    {
+      "id": "MC-312471",
+      "title": "Hoes Stopped Working In Realm",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312471"
+      }
+    },
+    {
+      "id": "MC-312470",
+      "title": "Brick stairs make no sense \u2013 the texture is wrong",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312470"
+      }
+    },
+    {
+      "id": "MC-312468",
+      "title": "Saddles can be equipped on baby skeleton horses",
+      "category": "commands",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-12",
+      "priority": "Low",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312468"
+      }
+    },
+    {
+      "id": "MC-312467",
+      "title": "Broken Librarian Villager trades",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Cannot Reproduce",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312467"
+      }
+    },
+    {
+      "id": "MC-312466",
+      "title": "Replacing a player's shield with a command while they're using it with a consumable shield interrupts the blocking but not the animation",
+      "category": "items",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Low",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312466"
+      }
+    },
+    {
+      "id": "MC-312465",
+      "title": "The frame time overlay enabled by F3+2 incurs excessive performance overhead.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312465"
+      }
+    },
+    {
+      "id": "MC-312464",
+      "title": "\u7531F3+2\u6253\u5f00\u7684\u5e27\u65f6\u95f4\u53e0\u52a0\u5c42\u6027\u80fd\u6d88\u8017\u8fc7\u5927",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312464"
+      }
+    },
+    {
+      "id": "MC-312463",
+      "title": "it looks like an eye",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312463"
+      }
+    },
+    {
+      "id": "MC-312462",
+      "title": "why is there a hole in the cave i did't mine it",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312462"
+      }
+    },
+    {
+      "id": "MC-312461",
+      "title": "The 3rd floor illager face in woodland mansions can sometimes be exposed behind it",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Won't Fix",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312461"
+      }
+    },
+    {
+      "id": "MC-312460",
+      "title": "Minecarts affected by flowing water in waterlogged blocks are not always given the correct velocity",
+      "category": "block states",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-09",
+      "updated": "2026-10-12",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312460"
+      }
+    },
+    {
+      "id": "MC-312459",
+      "title": "Hoes Stopped Working In Realm",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312459"
+      }
+    },
+    {
+      "id": "MC-312469",
+      "title": "bug tracker java not letting me choose a version",
+      "category": "other",
+      "affected": [
+        ""
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312469"
+      }
+    },
+    {
+      "id": "MC-312458",
+      "title": "Entities don't slide on ice crystals, unlike regular ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-09",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312458"
+      }
+    },
+    {
+      "id": "MC-312457",
+      "title": "Entities don't slide on icicles, unlike regular ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-09",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312457"
+      }
+    },
+    {
+      "id": "MC-312456",
+      "title": "Mobs immune to freezing in powder snow can get the Freezing effect applied to them, unlike frostbites",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-09",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312456"
+      }
+    },
+    {
+      "id": "MC-312455",
+      "title": "Attempting to collect liquids from the edge of the world border when it's set to a non-integer size causes a desync",
+      "category": "items",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-08",
+      "updated": "2026-10-14",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312455"
+      }
+    },
+    {
+      "id": "MC-312453",
+      "title": "Leaves placed with  /fill  and  /setblock  commands decay",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-08",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312453"
+      }
+    },
+    {
+      "id": "MC-312452",
+      "title": "Inconsistent rendering of smaller entities at a distance",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312452"
+      }
+    },
+    {
+      "id": "MC-312451",
+      "title": "Strays sink in Powder snow unlike the \"Frostbite\" mob",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312451"
+      }
+    },
+    {
+      "id": "MC-312450",
+      "title": "Jumping right before breaking a block makes the block reappear for a short amount of time",
+      "category": "networking",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-08",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312450"
+      }
+    },
+    {
+      "id": "MC-312449",
+      "title": "Game crashes when opening inventory inside mob view in spectator",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312449"
+      }
+    },
+    {
+      "id": "MC-312448",
+      "title": "Stacking a large number of minecarts in the same block causes all game audio to stop",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312448"
+      }
+    },
+    {
+      "id": "MC-312447",
+      "title": "Menu widgets stay highlighted after being selected",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312447"
+      }
+    },
+    {
+      "id": "MC-312446",
+      "title": "Upgrading world issue",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Incomplete",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312446"
+      }
+    },
+    {
+      "id": "MC-312445",
+      "title": "Disabled buttons are rendered differently that other buttons",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Cannot Reproduce",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312445"
+      }
+    },
+    {
+      "id": "MC-312444",
+      "title": "The game crashes when resizing the window on Windows 10",
+      "category": "ui",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Plausible",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-13",
+      "priority": "Very Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312444"
+      }
+    },
+    {
+      "id": "MC-312443",
+      "title": "Horse turning sways or is delayed",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-07",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312443"
+      }
+    },
+    {
+      "id": "MC-312442",
+      "title": "When deleting a savegame, all world photos change to \"no texture\" for a few milliseconds",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312442"
+      }
+    },
+    {
+      "id": "MC-312441",
+      "title": "Drowned conversion is cancelled if a shaking submerged zombie is removed from water",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312441"
+      }
+    },
+    {
+      "id": "MC-312440",
+      "title": "Water colour in ice caves may not match Bedrock Edition",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Cannot Reproduce",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312440"
+      }
+    },
+    {
+      "id": "MC-312439",
+      "title": "Ice balls thrown directly down create particles at head height",
+      "category": "projectiles",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312439"
+      }
+    },
+    {
+      "id": "MC-312438",
+      "title": "Other Players icon is discentered",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312438"
+      }
+    },
+    {
+      "id": "MC-312437",
+      "title": "Report Bugs icon is discentered",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312437"
+      }
+    },
+    {
+      "id": "MC-312436",
+      "title": "The Freezing effect overlay does not adhere to the UI pixel grid",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312436"
+      }
+    },
+    {
+      "id": "MC-312435",
+      "title": "\"Sliding down a Honey Block\" appears even if you're not touching the block from the side",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312435"
+      }
+    },
+    {
+      "id": "MC-312434",
+      "title": "Subtitle for honey block sliding still uses a nonstandard tense format",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-07",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312434"
+      }
+    },
+    {
+      "id": "MC-312433",
+      "title": "The closed caption for throwing ice balls is inconsistent with the ones for other throwable items",
+      "category": "accessibility",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-09",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312433"
+      }
+    },
+    {
+      "id": "MC-312432",
+      "title": "Thrown ice balls with 3D models rotate weirdly according to the camera",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312432"
+      }
+    },
+    {
+      "id": "MC-312431",
+      "title": "Red and brown mushrooms now spread incorrectly",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Important",
+      "votes": 3,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312431"
+      }
+    },
+    {
+      "id": "MC-312430",
+      "title": "Falling pointed blocks deal more damage than before",
+      "category": "other",
+      "affected": [
+        "26.2 Snapshot 6",
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312430"
+      }
+    },
+    {
+      "id": "MC-312429",
+      "title": "Exposed packed ice strips no longer generate properly in frozen peaks",
+      "category": "world generation",
+      "affected": [
+        "26.4 Snapshot 3",
+        "26.4 Snapshot 4"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-15",
+      "priority": "Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312429"
+      }
+    },
+    {
+      "id": "MC-312428",
+      "title": "Husk transforms into a normal Zombie before becoming a Frostbite mob in Powder Snow",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312428"
+      }
+    },
+    {
+      "id": "MC-312427",
+      "title": "Wrong icon of Minecraft",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312427"
+      }
+    },
+    {
+      "id": "MC-312426",
+      "title": "GUI rendering becomes corrupted when resizing a window with Vulkan on Intel UHD Graphics",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312426"
+      }
+    },
+    {
+      "id": "MC-312425",
+      "title": "Removed data component types present in the `hidden_components` field of a `tooltip_display` component log a deserialization warning",
+      "category": "datafixer",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Plausible",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-14",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312425"
+      }
+    },
+    {
+      "id": "MC-312424",
+      "title": "Screen tearing and miscolored pixels with Vulkan on specific devices",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312424"
+      }
+    },
+    {
+      "id": "MC-312423",
+      "title": "Inconsistency: Ice caves do not generate any regular ice",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312423"
+      }
+    },
+    {
+      "id": "MC-312422",
+      "title": "Redstone Repeater Mulfunctions at Specific X,Y,Z Coordinates.",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312422"
+      }
+    },
+    {
+      "id": "MC-312421",
+      "title": "Villagers convert to zombie villagers when killed by frostbites using ice balls",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-10",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312421"
+      }
+    },
+    {
+      "id": "MC-312420",
+      "title": "Villager never Restocking",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312420"
+      }
+    },
+    {
+      "id": "MC-312419",
+      "title": "Baby Mule's health is abnormally high when spawned via spawn egg",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312419"
+      }
+    },
+    {
+      "id": "MC-312417",
+      "title": "Mouse functions not working",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312417"
+      }
+    },
+    {
+      "id": "MC-312416",
+      "title": "Frostbite cannot naturally spawn holding a melee weapon",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Community Consensus",
+      "resolution": "Works As Intended",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312416"
+      }
+    },
+    {
+      "id": "MC-312415",
+      "title": "The closed caption for husks converting to zombies in powder snow is incorrect",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-07",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312415"
+      }
+    },
+    {
+      "id": "MC-312414",
+      "title": "Ice crystals are more expensively sold by wandering traders than in Bedrock Edition",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-13",
+      "priority": "Normal",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312414"
+      }
+    },
+    {
+      "id": "MC-312413",
+      "title": "Frostbite cannot naturally spawn with armor",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312413"
+      }
+    },
+    {
+      "id": "MC-312412",
+      "title": "Rapidly flickering screen rays at certain camera angles when camera is below floating solid platform",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312412"
+      }
+    },
+    {
+      "id": "MC-312411",
+      "title": "F3 still exists",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312411"
+      }
+    },
+    {
+      "id": "MC-312410",
+      "title": "Mineshafts don't generate in ice caves",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-07",
+      "updated": "2026-10-14",
+      "priority": "Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312410"
+      }
+    },
+    {
+      "id": "MC-312409",
+      "title": "[If you see this text, please refresh the page]",
+      "category": "other",
+      "affected": [
+        ""
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312409"
+      }
+    },
+    {
+      "id": "MC-312408",
+      "title": "Drowned no longer throws tridents at targets that are further than 10 blocks away",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312408"
+      }
+    },
+    {
+      "id": "MC-312407",
+      "title": "Zombies and husks take damage while transforming into frostbite",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Community Consensus",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312407"
+      }
+    },
+    {
+      "id": "MC-312406",
+      "title": "Skeletons summoned with a high TicksFrozen value do not visually shiver",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Won't Fix",
+      "created": "2026-10-06",
+      "updated": "2026-10-13",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312406"
+      }
+    },
+    {
+      "id": "MC-312405",
+      "title": "The texture of frostbites contains unused pixels on the top left",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-10",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312405"
+      }
+    },
+    {
+      "id": "MC-312404",
+      "title": "Frostbites can naturally spawn in normal caves under cold biomes, unlike strays",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-15",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312404"
+      }
+    },
+    {
+      "id": "MC-312403",
+      "title": "Powder snow doesn't inflict the new freezing status effect",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-06",
+      "updated": "2026-10-09",
+      "priority": "Medium",
+      "votes": 3,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312403"
+      }
+    },
+    {
+      "id": "MC-312402",
+      "title": "Missing commas before conjunctions in 7 strings",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312402"
+      }
+    },
+    {
+      "id": "MC-312401",
+      "title": "melts_icicle_above checks for blocks below the icicle and not above",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312401"
+      }
+    },
+    {
+      "id": "MC-312400",
+      "title": "Powder snow is no longer destroyed by flaming projectiles",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312400"
+      }
+    },
+    {
+      "id": "MC-312399",
+      "title": "Entity textures do not reload without relaunch",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312399"
+      }
+    },
+    {
+      "id": "MC-312398",
+      "title": "Clicking on villagers with shears while they are holding out certain items causes the items to drop",
+      "category": "trading",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-09",
+      "priority": "Very Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312398"
+      }
+    },
+    {
+      "id": "MC-312397",
+      "title": "Ice and snowballs do not cause knockback on hit if entity is already receiving damage else ways",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312397"
+      }
+    },
+    {
+      "id": "MC-312396",
+      "title": "Two irrelevant sound events are played if a warden fails all spawn attempts",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312396"
+      }
+    },
+    {
+      "id": "MC-312395",
+      "title": "Subtitle for a warden despawning when swimming is \"Warden groans angrily\"",
+      "category": "other",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312395"
+      }
+    },
+    {
+      "id": "MC-312394",
+      "title": "Drowned with tridents have a significantly reduced attack range",
+      "category": "items",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312394"
+      }
+    },
+    {
+      "id": "MC-312393",
+      "title": "Drowned throwing Trident sound used for Ice Ball when being thrown by a Frostbite",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312393"
+      }
+    },
+    {
+      "id": "MC-312392",
+      "title": "Cushion Placing/Breaking Sound Volume Is too low",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312392"
+      }
+    },
+    {
+      "id": "MC-312391",
+      "title": "Inconsistent transparency between glass, stained glass, and tinted glass textures",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312391"
+      }
+    },
+    {
+      "id": "MC-312390",
+      "title": "Strays still using/dropping Slowness tipped arrows after the introduction of Freezing arrows",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312390"
+      }
+    },
+    {
+      "id": "MC-312389",
+      "title": "Player plays a looping extinguish sound while Freezing and touching fire.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312389"
+      }
+    },
+    {
+      "id": "MC-312388",
+      "title": "Pressing the \"Other Players\" key bind in the game menu does not open the Other Players screen",
+      "category": "ui",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-09",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312388"
+      }
+    },
+    {
+      "id": "MC-312387",
+      "title": "Parcheds cannot be converted into skeletons while inside powder snow, unlike hucks",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312387"
+      }
+    },
+    {
+      "id": "MC-312386",
+      "title": "The `#spawns_strays_without_powder_snow` biome tag's name makes no sense",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-15",
+      "priority": "Normal",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312386"
+      }
+    },
+    {
+      "id": "MC-312385",
+      "title": "Drowned die in powder snow instead of converting to frostbites",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312385"
+      }
+    },
+    {
+      "id": "MC-312384",
+      "title": "Standing in fire or lava while under the effect of Freezing spams the fire extinguishing sound",
+      "category": "accessibility",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Won't Fix",
+      "created": "2026-10-06",
+      "updated": "2026-10-11",
+      "priority": "Normal",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312384"
+      }
+    },
+    {
+      "id": "MC-312383",
+      "title": "Frostbites convert to themselves while in powder snow",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312383"
+      }
+    },
+    {
+      "id": "MC-312382",
+      "title": "Husks and zombies take damage from powder snow before converting, unlike skeletons",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312382"
+      }
+    },
+    {
+      "id": "MC-312381",
+      "title": "Eggs do not deal knockback to players, unlike snowballs",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312381"
+      }
+    },
+    {
+      "id": "MC-312380",
+      "title": "Button hover highlights in the new Friends menu use the old blue tint instead of a white outline",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312380"
+      }
+    },
+    {
+      "id": "MC-312379",
+      "title": "Gravel blobs no longer generate in biomes they previously did",
+      "category": "world generation",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Very Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312379"
+      }
+    },
+    {
+      "id": "MC-312378",
+      "title": "Ice caves are not part of the `#is_cave` biome tag",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312378"
+      }
+    },
+    {
+      "id": "MC-312377",
+      "title": "The bottom face of icicles on the floor is rotated 180 degrees",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "Future Update",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-15",
+      "priority": "Low",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312377"
+      }
+    },
+    {
+      "id": "MC-312376",
+      "title": "The sounds of icicles breaking from falling don't have any closed captions",
+      "category": "accessibility",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-13",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312376"
+      }
+    },
+    {
+      "id": "MC-312375",
+      "title": "Launching the game in windowed mode causes it to render incorrectly with the Vulkan rendering backend",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Plausible",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-15",
+      "priority": "Very Important",
+      "votes": 6,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312375"
+      }
+    },
+    {
+      "id": "MC-312374",
+      "title": "Parched die in powdered snow instead of turning into skeletons.",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312374"
+      }
+    },
+    {
+      "id": "MC-312373",
+      "title": "Frosted ice still sounds like glass when broken",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-13",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312373"
+      }
+    },
+    {
+      "id": "MC-312372",
+      "title": "Packed ice and blue ice still sound like glass when broken",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-13",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312372"
+      }
+    },
+    {
+      "id": "MC-312371",
+      "title": "Water in plains villages can generate in invalid states on slopes",
+      "category": "village system",
+      "affected": [
+        "26.3",
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-09",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312371"
+      }
+    },
+    {
+      "id": "MC-312370",
+      "title": "Ice spikes and icebergs generate capped by snow",
+      "category": "world generation",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Important",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312370"
+      }
+    },
+    {
+      "id": "MC-312369",
+      "title": "Skeletons do not take damage from Freezing",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Medium",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312369"
+      }
+    },
+    {
+      "id": "MC-312368",
+      "title": "Icicles can be placed such that they have two bases simultaneously",
+      "category": "block states",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Low",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312368"
+      }
+    },
+    {
+      "id": "MC-312367",
+      "title": "The closed caption for hurting a frostbite says \"hurts\" instead of \"is hurt\"",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Normal",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312367"
+      }
+    },
+    {
+      "id": "MC-312366",
+      "title": "Parity: Husk converts into a zombie instead of a frostbite while inside powder snow",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Works As Intended",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312366"
+      }
+    },
+    {
+      "id": "MC-312365",
+      "title": "Worlds' icons in the world selection screen briefly show the missing texture when returning from another screen",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-11",
+      "priority": "Important",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312365"
+      }
+    },
+    {
+      "id": "MC-312364",
+      "title": "The minecraft:freezing particle has incorrect rotation interpolation for the first tick",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312364"
+      }
+    },
+    {
+      "id": "MC-312363",
+      "title": "Leather boots can eliminate the freezing effect",
+      "category": "other",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-08",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312363"
+      }
+    },
+    {
+      "id": "MC-312362",
+      "title": "Frostbites throwing ice balls shows and plays the \"Drowned throws Trident\" sound in closed captions",
+      "category": "accessibility",
+      "affected": [
+        "26.4 Snapshot 3"
+      ],
+      "fixedIn": "26.4 Snapshot 4",
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Fixed",
+      "created": "2026-10-06",
+      "updated": "2026-10-12",
+      "priority": "Normal",
+      "votes": 2,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312362"
+      }
+    },
+    {
+      "id": "MC-312361",
+      "title": "Players can break Paintings and Item Frames in Adventure Mode",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Duplicate",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312361"
+      }
+    },
+    {
+      "id": "MC-312360",
+      "title": "Paintings break outside the world border",
+      "category": "collision",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Confirmed",
+      "resolution": "Unresolved",
+      "created": "2026-10-06",
+      "updated": "2026-10-14",
+      "priority": "Important",
+      "votes": 1,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312360"
+      }
+    },
+    {
+      "id": "MC-312359",
+      "title": "The block breaking particle persists when switching to spear while holding left mouse to dig blocks",
+      "category": "other",
+      "affected": [
+        "26.3"
+      ],
+      "fixedIn": null,
+      "workaround": null,
+      "loaders": [
+        "all"
+      ],
+      "confirmation": "Unconfirmed",
+      "resolution": "Invalid",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "priority": "Medium",
+      "votes": 0,
+      "comments": 0,
+      "duplicates": 0,
+      "links": {
+        "Mojira report": "https://report.bugs.mojang.com/browse/MC-312359"
+      }
     }
   ]
 }
